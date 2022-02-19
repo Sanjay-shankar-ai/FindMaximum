@@ -110,9 +110,8 @@ def max_marks(marks):
 
 
 ## Output:
-![output](./img/fing.png) 
+![output](fing.png) 
 
 
 ## Result:
->>>>>>> d2334b2244baf77bfa7a0c9b64f8d6081517e7ad
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
